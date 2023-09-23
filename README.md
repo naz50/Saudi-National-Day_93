@@ -6,4 +6,4 @@ The objective of the project was to use the OLED module of an Arduino to display
 1-OLED module. <br/>
 2-Arduino. <br/>
 3-Jumper wires. <br/>
-4-Adobe Illustrator.<br/>
+4-Adobe Illustrator. <br/>
