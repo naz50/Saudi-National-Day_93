@@ -59,9 +59,10 @@ The objective of the project is to use the OLED module of an Arduino to display 
 ![Artboard 9](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/d960d8d5-df6f-49a2-86cd-ed560482d45f)>
 ![Artboard 10](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/dd5925b6-a632-47ee-b2f1-30eef9279ebd)
 
-and so on.
-![photo_5787447691419172331_x](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/34612723-8057-48c0-bfc6-1a9b5ed7f131)
 
+![photo_5787447691419172331_x](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/34612723-8057-48c0-bfc6-1a9b5ed7f131)
+![Artboard 55](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/bfbe9e41-af46-4ede-af95-9078f0d7a0f4)
+and so on.
   ### 2. Convert image frame To matrix
   - Using  image2cpp website (https://javl.github.io/image2cpp/ )
     <img width="680" alt="Screenshot 2023-09-23 135038" src="https://github.com/naz50/Saudi-National-Day_93/assets/74384259/f7d46c0a-a1f6-45f0-8c6e-94cd43ef591c">
