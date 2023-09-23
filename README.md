@@ -1,5 +1,5 @@
 
-<img align="left" width="32" height="40" src="https://github.com/naz50/Saudi-National-Day_93/blob/main/saudi-arabia.png" alt="Resume application project app icon">
+<img align="left" src="https://github.com/naz50/Saudi-National-Day_93/blob/main/saudi-arabia.png" alt="Saudi National Day 93">
 
 # Summary of the Project for Saudi National Day 93
 
