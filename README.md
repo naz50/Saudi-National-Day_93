@@ -5,7 +5,9 @@
 
  ###  The objective of the project was to use the OLED module of an Arduino to display animated graphics (image frames), subsequently displaying images such as the Saudi Arabia map, the KSA's towers, and the country's founder, King Abdulaziz and  "نحلم ونحقق"logo.
 
-#  Project requirements: ![backlog](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/6bfd33de-77e9-4e5c-8399-9b1faf39ff3b)
+<img align="left"  src="https://github.com/naz50/Saudi-National-Day_93/blob/main/work-in-progress.png" alt="Saudi National Day 93">
+
+#  Project requirements
   1-OLED module 128x64. <br/>
   2-Arduino. <br/>
   3-Jumper wires. <br/>
