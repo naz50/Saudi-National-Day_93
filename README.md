@@ -15,7 +15,9 @@
   5-Adafruit_SSD130 library. <br/>
   
 <img align="left"  src="https://github.com/naz50/Saudi-National-Day_93/blob/main/backlog%20(1).png" alt="Saudi National Day 93">
+
 # Methodology 
+
   ### 1. Image frame design 
   - Using Adobe Illustrator KSA Map
     ![Artboard 20](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/aa6ef96f-cfc3-4fd6-a00c-bfde46ad7f58) >
