@@ -13,8 +13,8 @@
   3-Jumper wires. <br/>
   4-Adobe Illustrator. <br/>
   5-Adafruit_SSD130 library. <br/>
-<img align="left"  src=https://github.com/naz50/Saudi-National-Day_93/blob/main/backlog%20(1).png" alt="Saudi National Day 93">
-
+  
+<img align="left"  src="https://github.com/naz50/Saudi-National-Day_93/blob/main/backlog%20(1).png" alt="Saudi National Day 93">
 # Methodology 
   ### 1. Image frame design 
   - Using Adobe Illustrator KSA Map
