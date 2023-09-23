@@ -1,5 +1,5 @@
 
-<img align="left"  src="https://github.com/naz50/Saudi-National-Day_93/blob/main/saudi-arabia%20(1).png" alt="Saudi National Day 93">
+<img align="left"  src="https://github.com/naz50/Saudi-National-Day_93/blob/main/saudi-arabia%20(2).png" alt="Saudi National Day 93">
 
 # Summary of the Project for Saudi National Day 93
 
@@ -13,8 +13,9 @@
   3-Jumper wires. <br/>
   4-Adobe Illustrator. <br/>
   5-Adafruit_SSD130 library. <br/>
+<img align="left"  src=https://github.com/naz50/Saudi-National-Day_93/blob/main/backlog%20(1).png" alt="Saudi National Day 93">
 
-# Methodology  ![review (1)](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/4ef34c07-3131-4d18-a9f4-ca8b9497455f) 
+# Methodology 
   ### 1. Image frame design 
   - Using Adobe Illustrator KSA Map
     ![Artboard 20](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/aa6ef96f-cfc3-4fd6-a00c-bfde46ad7f58) >
