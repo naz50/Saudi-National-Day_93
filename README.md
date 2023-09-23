@@ -13,8 +13,12 @@
   ### 1. Image frame design 
   - Using Adobe Illustrator
     ![Artboard 20](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/aa6ef96f-cfc3-4fd6-a00c-bfde46ad7f58) >
-   ![Artboard 21](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/0d9d95b7-c8df-4cc9-a00b-dd093f09b21d)>
-   ![Artboard 22](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/bb1294f8-8966-4f83-a6bc-35405b82b796)
+   ![Artboard 21](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/0d9d95b7-c8df-4cc9-a00b-dd093f09b21d) >
+   ![Artboard 22](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/bb1294f8-8966-4f83-a6bc-35405b82b796) >
+   ![Artboard 23](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/0e642bbe-7b35-496c-8aa7-82d08869d1da) >
+  ![Artboard 24](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/59ae7690-51b9-41c5-bfb9-b49f546b5842) >
+![Artboard 25](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/e9184db2-8ad5-411c-afb0-0cbd3a359c51)>
+![Artboard 26](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/12abf9e7-5019-451f-87b3-6bc39a3f803f)
     and so on.
   ### 2.Convert image frame To its matrix
   - using  image2cpp website (https://javl.github.io/image2cpp/ )
@@ -27,3 +31,9 @@
 
   ### 5. Linking software components to hardware components
   ![download](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/6dd9e338-6e1b-4502-a84a-60ffa48d0bf6)
+
+  # Final Output
+  ![photo_5798471961934937949_y (1)](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/4ca6dfed-8f03-4981-9dc3-f010c7c256bb)
+  ![photo_5798471961934937942_y (1)](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/0ee9b847-93f3-4507-a7c4-f1b473a2dead)
+
+  
