@@ -63,7 +63,7 @@ and so on.
 ![photo_5787447691419172331_x](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/34612723-8057-48c0-bfc6-1a9b5ed7f131)
 
   ### 2. Convert image frame To matrix
-  - using  image2cpp website (https://javl.github.io/image2cpp/ )
+  - Using  image2cpp website (https://javl.github.io/image2cpp/ )
     <img width="680" alt="Screenshot 2023-09-23 135038" src="https://github.com/naz50/Saudi-National-Day_93/assets/74384259/f7d46c0a-a1f6-45f0-8c6e-94cd43ef591c">
   ### 3. Add the array to the code
   <img width="630" alt="Screenshot 2023-09-23 135217" src="https://github.com/naz50/Saudi-National-Day_93/assets/74384259/209e7959-b747-45f2-bf5a-f669138eccc1">
