@@ -1,4 +1,5 @@
- #  Summary of the Project for Saudi National Day 93 ![saudi-arabia](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/79ea209b-2b00-4860-86bc-64ffcb913adc)
+<div style="float: left;"><img src="[https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/79ea209b-2b00-4860-86bc-64ffcb913adc)" width="128" height="128"/></div>
+# Summary of the Project for Saudi National Day 93
 
  ###  The objective of the project was to use the OLED module of an Arduino to display animated graphics (image frames), subsequently displaying images such as the Saudi Arabia map, the KSA's towers, and the country's founder, King Abdulaziz and  "نحلم ونحقق"logo.
 
@@ -52,6 +53,8 @@
 ![Artboard 10](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/dd5925b6-a632-47ee-b2f1-30eef9279ebd)
 
 and so on.
+![photo_5787447691419172331_x](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/34612723-8057-48c0-bfc6-1a9b5ed7f131)
+
   ### 2.Convert image frame To its matrix
   - using  image2cpp website (https://javl.github.io/image2cpp/ )
     <img width="680" alt="Screenshot 2023-09-23 135038" src="https://github.com/naz50/Saudi-National-Day_93/assets/74384259/f7d46c0a-a1f6-45f0-8c6e-94cd43ef591c">
