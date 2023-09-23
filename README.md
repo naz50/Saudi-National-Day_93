@@ -4,6 +4,6 @@ The objective of the project was to use the OLED module of an Arduino to display
 # Project requirements: ![backlog](https://github.com/naz50/Saudi-National-Day_93/assets/74384259/6bfd33de-77e9-4e5c-8399-9b1faf39ff3b)
 
 1-OLED module. <br/>
-2-Arduino. 
-3-Jumper wires. 
-4-Adobe Illustrator.
+2-Arduino. <br/>
+3-Jumper wires. <br/>
+4-Adobe Illustrator.<br/>
